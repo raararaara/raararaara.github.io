@@ -18,8 +18,8 @@ comments: false
 
 ### 교내
 #### <a href="https://acm.sogang.ac.kr/">Sogang ICPC Team</a> 컴퓨터공학과 학부 소학회
-    * 2020봄학기 고급 주제 강의 (2020.3 ~ 2020.7, <a href="https://www.youtube.com/playlist?list=PLhhU7NXJ_2vmdcdQq8B0blDIROkAYvABq">Lecture Link</a>, <a href="https://drive.google.com/file/u/1/d/1WcwMRrM7erXQmYcSbKQh1geiOYb_1uvL/view?usp=sharing">Lecture note</a>)
-    * 2019겨울학기 ICPC Sinchon(<a href="https://acm.sogang.ac.kr/">Sogang ICPC Team</a>, <a href="https://hi-arc.github.io/">HI-ARC</a>) 중급 주제 강의 (2020.1 ~ 2020.2, <a href="https://drive.google.com/file/d/1nv83qtJnMYUVkRFi-ZkGbD4ujKpCOiA7/view">Lecture node</a>)
+* 2020봄학기 고급 주제 강의 (2020.3 ~ 2020.7, <a href="https://www.youtube.com/playlist?list=PLhhU7NXJ_2vmdcdQq8B0blDIROkAYvABq">Lecture Link</a>, <a href="https://drive.google.com/file/u/1/d/1WcwMRrM7erXQmYcSbKQh1geiOYb_1uvL/view?usp=sharing">Lecture note</a>)
+* 2019겨울학기 ICPC Sinchon(<a href="https://acm.sogang.ac.kr/">Sogang ICPC Team</a>, <a href="https://hi-arc.github.io/">HI-ARC</a>) 중급 주제 강의 (2020.1 ~ 2020.2, <a href="https://drive.google.com/file/d/1nv83qtJnMYUVkRFi-ZkGbD4ujKpCOiA7/view">Lecture node</a>)
 
 {% capture images %}
     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
