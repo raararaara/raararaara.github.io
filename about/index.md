@@ -53,7 +53,7 @@ comments: false
 ---
 
 ## Extracurricular Activities
-### <u>신촌지역 대학생 프로그래밍 대회 동아리 연합 (ICPC Sinchon)</u>  
+### <u>ICPC Sinchon</u> - 신촌지역 대학생 프로그래밍 대회 동아리 연합  
 * 총괄(2020.1 ~ 현재)
 ### <a href="https://acm.sogang.ac.kr/">Sogang ICPC Team</a> -  컴퓨터공학과 학부 소학회, 서강대학교  
 * 학회장 (2020.1 ~ 현재)  
