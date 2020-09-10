@@ -35,7 +35,7 @@ comments: false
 (2019.1 ~ 2019.2)
 
 #### School Activities
-* - (2020.6 ~ 2020.8, <a href="https://drive.google.com/file/u/1/d/1jvenGzYwfcD-fK7QssTuKgkZfX-n7twb/view?usp=sharing">Lecture note</a>
+* - (2020.6 ~ 2020.8, <a href="https://drive.google.com/file/u/1/d/1jvenGzYwfcD-fK7QssTuKgkZfX-n7twb/view?usp=sharing">Lecture note</a>)
 * 2019겨울학기 C프로그래밍 조교 (2019.12 ~ 2020.1)
 * 2019겨울학기 융합소프트웨어전공 SCSC 방학 코딩 워크샵 조교 (2020.1 ~ 2020.2)
 * 2019여름학기 융합소프트웨어전공 SCSC 방학 코딩 워크샵 조교 (2020.7 ~ 2020.8)
