@@ -42,19 +42,31 @@ comments: false
 
 ---
 
-#### Awards
+## Awards
 * 2020 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2020) Div.1  
-3등상(Team BlackWeasel, with <a href="https://www.acmicpc.net/user/sbrus_1213">sbrus_1213</a>, <a href="https://www.acmicpc.net/user/yjyj1027">weasel</a>, <a href="https://www.acmicpc.net/contest/spotboard/519">Scordboard Link</a>)
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+3등상(Team BlackWeasel, with <a href="https://www.acmicpc.net/user/sbrus_1213">sbrus_1213</a>, <a href="https://www.acmicpc.net/user/yjyj1027">weasel</a>) <sub><a href="https://www.acmicpc.net/contest/spotboard/519">Scordboard</a></sub>
+* 2019 서강대학교 프로그래밍 경진대회 Champion division  
+4등상<sub><a href="https://www.acmicpc.net/contest/spotboard/488">Scoreboard</a></sub>
+* 2018 서강대학교 프로그래밍 경진대회 Master division
+6등상<sub><a href="https://www.acmicpc.net/contest/board/368">Scoreboard</a></sub>
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+---
 
-## Getting Started
+## Extracurricular Activities
+### <u>신촌지역 대학생 프로그래밍 대회 동아리 연합 (ICPC Sinchon)</u>  
+* 총괄(2020.1 ~ 현재)
+### <a href="https://acm.sogang.ac.kr/">Sogang ICPC Team</a> -  컴퓨터공학과 학부 소학회, 서강대학교  
+* 학회장 (2020.1 ~ 현재)  
+* 임원 (2019.1 ~ 현재)  
+* 학회원 (2018.8 ~ 현재)
+### <u>SGCC</u> - 중앙 컴퓨터 동아리, 서강대학교  
+* 부회장 (2019.7 ~ 2019.12)  
+* 동아리원 (2018.9 ~ 현재)
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+---
+
+## Other Experiences
+
+* 2020 서강대학교 프로그래밍 경진 대회(SPC) 운영 및 출제 총괄 (예정)
+* 2020 ICPC Sinchon Summer Camp Contest 운영 및 출제 총괄 <sub><a href="https://www.acmicpc.net/contest/view/536">Link</a></sub>
+* 2020 SUAPC 기획 및 운영
