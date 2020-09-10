@@ -44,7 +44,7 @@ github-url:         raararaara
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-#instagram:          username
+instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
@@ -53,7 +53,7 @@ github-url:         raararaara
 #steam:              username
 #dribbble:          username
 #youtube:           username
-#youtube-channel:   channel
+youtube-channel:   channel
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
